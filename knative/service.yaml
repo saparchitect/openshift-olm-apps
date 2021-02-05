@@ -10,4 +10,4 @@ spec:
         - image: docker.io/saparchitect/helloworld-go
           env:
             - name: TARGET
-              value: "Ricks Test 2 from Hello World"
+              value: "Ricks Test 4 from Hello World"
